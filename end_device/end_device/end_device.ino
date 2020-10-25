@@ -11,13 +11,6 @@ information to the coordinator (RPi).
 *****************************************************************/
 #include <SoftwareSerial.h>
 
-#define ATMEGA328P_RX0  2
-#define ATMEGA328P_TX0  3
-#define ARDUINO_UNO_RX0 2
-#define ARDUINO_UNO_TX0 3
-#define ATMEGA2560_RX0  10
-#define ATMEGA2560_TX0  11
-
 int airSensorValue;
 int smokeSensorValue;
 
