@@ -6,7 +6,7 @@ CS498 IoT Lab 2
 UIUC FA20 
 
 Description: This software handles the XBee communication, and
-sound detection, and air quality detection. It reports this 
+sound detection. It reports this 
 information to the coordinator (RPi).
 *****************************************************************/
 #include <SoftwareSerial.h>
