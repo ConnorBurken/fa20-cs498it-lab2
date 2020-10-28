@@ -1,0 +1,26 @@
+body {
+}
+
+.main-container {
+    background-color: #efefef;
+}
+
+.edge-header {
+    background-color: #eeeeee;
+}
+
+.btn-left {
+    margin-left: 0px;
+}
+
+#card-select-port {
+    display: none;
+}
+
+#room-cards-container .card-body img {
+    margin-bottom: 25px;
+}
+
+#room-cards-container .card-body a.btn {
+    margin-left: 0px;
+}
