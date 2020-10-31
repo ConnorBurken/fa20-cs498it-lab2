@@ -5,6 +5,11 @@ body {
     background-color: #efefef;
 }
 
+#main_container {
+    margin-top: -200px !important;
+    margin-bottom: 100px !important;
+}
+
 .edge-header {
     background-color: #eeeeee;
 }

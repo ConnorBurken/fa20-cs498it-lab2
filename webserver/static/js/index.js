@@ -2,7 +2,7 @@ const content_loading = `<span class="spinner-border spinner-border-sm" role="st
 const port_item = (id) => `<a class="list-group-item list-group-item-action port-list-item" data-toggle="list" href="#" role="tab" aria-controls="home">${id}</a>`;
 const room_card = (roomId) => `
 <div class="card-body room-card" id="room-card-${roomId}">
-    <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Others/images/43.jpg" alt="Card image cap">
+    <img class="card-img-top" src="/static/img/rooms/${roomId}.jpg" alt="Card image cap">
 
     <!-- Title -->
     <h4 class="card-title">${roomId}</h4>
